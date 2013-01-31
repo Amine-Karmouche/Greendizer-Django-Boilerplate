@@ -11,8 +11,8 @@ Check out [the Greendizer website](https://www.greendizer.com/) for more informa
 
 #Requirements
 In order to use this boilerplate the following is needed:
-* [Greendizer Python Library][https://github.com/Greendizer/Greendizer-Python-Library]
-* [PyXMLi][https://github.com/Greendizer/PyXMLi]
+* [Greendizer Python Library](https://github.com/Greendizer/Greendizer-Python-Library)
+* [PyXMLi](https://github.com/Greendizer/PyXMLi)
 
 #About authentication
 The OAuth flow used is the "Authorization Code Grant" for client/server applications
