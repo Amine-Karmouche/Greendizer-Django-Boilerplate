@@ -11,7 +11,7 @@ Check out [the Greendizer website](https://www.greendizer.com/) for more informa
 
 #Requirements
 In order to use this boilerplate the following is needed:
-* [Greendizer Python Library](https://github.com/Greendizer/Greendizer-Python-Library)
+* [Greendizer Python Library](https://github.com/Greendizer/Greendizer-Python-Library) which includes OAuth
 * [PyXMLi](https://github.com/Greendizer/PyXMLi)
 
 #About authentication
